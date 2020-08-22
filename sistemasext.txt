@@ -1,0 +1,14 @@
+o sistema deve fazer autentificação do usuario 
+o sistema deve aolacr o carro mais proximo do usuario 
+o sistema deve possibilitar a solicitação por mobile, aplicativo.
+para testar iremos verificar a autentificação dos usuarios clientes e motorista 
+ 
+git status - 
+verificar se deu certo 
+
+git add . requisitos.txt nome do arquivo
+
+git commit -m "comentario" repositorio local 
+
+git status o comando que verifica se foi feito 
+git push  
